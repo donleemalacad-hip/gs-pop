@@ -7,4 +7,11 @@
         <shortDescription>AAATESTTEST</shortDescription>
         <value>Test</value>
     </labels>
+    <labels>
+        <fullName>DayLight_Savings</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>DayLight Savings</shortDescription>
+        <value>False</value>
+    </labels>
 </CustomLabels>
